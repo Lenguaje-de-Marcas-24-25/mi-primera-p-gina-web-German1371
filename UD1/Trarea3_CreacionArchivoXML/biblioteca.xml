@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+   <libro cod="1">
+      <fecha_adquisicion>01-01-2013</fecha_adquisicion>
+      <titulo>El Gran Gatsby</titulo>
+      <autor>F. Scott Fitzgerald</autor>
+      <precio>20.5</precio>
+      <cantidad>5</cantidad>
+      <categoria>Novela Clásica</categoria>
+   </libro>
+   <libro cod="2">
+      <fecha_adquisicion>31-12-2012</fecha_adquisicion>
+      <titulo>1984</titulo>
+      <autor>George Orwell</autor>
+      <precio>15</precio>
+      <cantidad>3</cantidad>
+      <categoria>Distopía</categoria>
+   </libro>
+   <libro cod="3">
+      <fecha_adquisicion>05-07-2013</fecha_adquisicion>
+      <titulo>Sapiens: De Animales a Dioses</titulo>
+      <autor>Yuval Noah Harari</autor>
+      <precio>30</precio>
+      <cantidad>4</cantidad>
+      <categoria>Historia</categoria>
+   </libro>
+   <libro cod="4">
+      <fecha_adquisicion>15-08-2013</fecha_adquisicion>
+      <titulo>Breve Historia del Tiempo</titulo>
+      <autor>Stephen Hawking</autor>
+      <precio>25</precio>
+      <cantidad>2</cantidad>
+      <categoria>Ciencia</categoria>
+   </libro>
+</biblioteca>
