@@ -1,0 +1,49 @@
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 500px;
+    border-collapse: collapse;
+    height: 300px;
+    border: 1px solid black;
+}
+
+th, td {
+    border: 3px solid black;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.darkorange {
+    color: darkorange;
+}
+
+.gold {
+    color: gold;
+}
+
+.red {
+    color: red;
+}
+
+.fuchsia {
+    color: fuchsia;
+}
+
+.aqua {
+    color: aqua;
+}
+
+.violet {
+    color: violet;
+}
+
+.break {
+    font-style: oblique;
+    font-weight: bold;
+}
