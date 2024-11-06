@@ -6,5 +6,8 @@
 
 [Tarea4](Tarea4_Tablas/Tablas.html)
 
+[Tarea6](Tarea6_Formulario/Formulario.html)
+
+
 
 
