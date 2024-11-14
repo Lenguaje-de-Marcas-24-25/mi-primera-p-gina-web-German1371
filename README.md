@@ -10,6 +10,13 @@
 
 [Tarea6](Tarea6_Formulario/Formulario.html)
 
+[Tarea7](Tarea7_EnlacesImágenes/EnlacesEImagenes.html)
+
+[Tarea8](Tarea8_HTMLYCSS/HTMLYCSS.html)
+
+[Tarea9](Tarea9_HTMLYCSS/HTMLYCSS2.html)
+
+
 
 
 
